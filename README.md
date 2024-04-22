@@ -9,6 +9,7 @@ This project was made as course work for the CS5100 Foundations of Artificial In
 - [Model and Training](#model-and-training)
 - [Datasets](#datasets)
 - [Usage](#usage)
+- [Google Colab](#colab)
 - [Collaborators](#collaborators)
 - [Contributing](#contributing)
 
@@ -33,6 +34,9 @@ Our initial intention was to use languages that uncommon on the global scale, su
 The application has a [UI interface](https://github.com/srinivasa-sameer/ai-doc-translator) that was made using React. Users can use this interface to translate text or PDF documents.
 
 The UI application hits the backend which is exposed in [backend.ipynb](backend.ipynb). The code in this file utilizes the saved model based on the input languages and output language required, translates the text or PDF, and sends the response back to the UI applicaion.
+
+## Google Colab
+You can view the other files and Google Colab notebooks on Google drive [here](https://drive.google.com/drive/u/0/folders/1XbQUmkgN-MOqhIdQco5eHHJXoEsaPxE7). Click on the link to request view access.
 
 ## Collaborators
 Collaborators on this project-
